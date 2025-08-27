@@ -18,10 +18,13 @@ Me gusta centrarme en la experiencia de usuario, el rendimiento y las buenas pr�
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🌟 Proyectos destacados
-- 🎲 [Monopoly en Java](https://github.com/Ialgalo90/Monopoly) - Juego de mesa adaptado con interfaz gráfica en Java Swing ![En proceso](https://img.shields.io/badge/En%20proceso-FFA500?style=flat-square)
-- 🖥️ [Portfolio Web con React](https://github.com/Ialgalo90/portfolio) - Mi portfolio personal en React y TailwindCSS ![Próximamente](https://img.shields.io/badge/Próximamente-808080?style=flat-square)
-- 📝 [Formulario de Registro con React](https://github.com/Ialgalo90/FormRegistroReact) - Mini-formulario en React y TailwindCSS (Frontend) y PHP (Backend) ![Finalizado](https://img.shields.io/badge/Finalizado-32CD32?style=flat-square)
+- 🎲 [Monopoly en Java](https://github.com/Ialgalo90/Monopoly) → Juego de mesa adaptado con interfaz gráfica en Java Swing ![En proceso](https://img.shields.io/badge/En%20proceso-FFA500?style=flat-square)
+- 🖥️ [Portfolio Web con React](https://github.com/Ialgalo90/portfolio) → Mi portfolio personal en React y TailwindCSS ![Próximamente](https://img.shields.io/badge/Próximamente-808080?style=flat-square)
+- 📝 [Formulario de Registro con React](https://github.com/Ialgalo90/FormRegistroReact) → Mini-formulario en React y TailwindCSS (Frontend) y PHP (Backend) ![Finalizado](https://img.shields.io/badge/Finalizado-32CD32?style=flat-square)
 
+### 🧪 Pruebas y pequeños proyectos
+- [Trabajo de Enfoque de Diseño de Interfaces Web]([https://github.com/Ialgalo90/TrabajoEnfoqueDIW](https://ialgalo90.github.io/TrabajoEnfoqueDIW/))  
+- [Trabajo de Enfoque de Desarrollo web Entorno Cliente]([https://github.com/Ialgalo90/TrabajoEnfoqueDWEC](https://ialgalo90.github.io/TrabajoEnfoqueDWEC/)) 
 
 ### 🌐 Sitios WordPress con Elementor
 - [3DALIA](https://3dalia.com/https://altexsl.com/) 
