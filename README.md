@@ -13,10 +13,9 @@ Me gusta centrarme en la experiencia de usuario, el rendimiento y las buenas pr�
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌟 Proyectos destacados
 - 🎲 [Monopoly en Java](https://github.com/Ialgalo90/Monopoly) - Juego de mesa adaptado con interfaz gráfica en Java Swing ![En proceso](https://img.shields.io/badge/En%20proceso-FFA500?style=flat-square)
