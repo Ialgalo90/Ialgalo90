@@ -10,20 +10,27 @@ Me gusta centrarme en la experiencia de usuario, el rendimiento y las buenas pr�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌟 Proyectos destacados
-- 🎲 [Monopoly en Java](https://github.com/tuusuario/monopoly) - Juego de mesa adaptado con interfaz gráfica en Java Swing.  
-- 🖥️ [Portfolio Web con React](https://github.com/tuusuario/portfolio) - Mi portfolio personal en React y TailwindCSS.  
-- 🌐 [Sitios WordPress con Elementor](https://github.com/tuusuario/ejemplo-wordpress) - Desarrollo de webs corporativas.
+- 🎲 [Monopoly en Java](https://github.com/Ialgalo90/Monopoly) - Juego de mesa adaptado con interfaz gráfica en Java Swing - ![En proceso](https://img.shields.io/badge/En%20proceso-FFA500?style=for-the-badge).  
+- 🖥️ [Portfolio Web con React](https://github.com/tuusuario/portfolio) - Mi portfolio personal en React y TailwindCSS - ![Próximamente](https://img.shields.io/badge/Próximamente-808080?style=for-the-badge).
+- 📝 [Formulario de Registro con React](https://github.com/Ialgalo90/FormRegistroReact) - Mini-formulario en React y TailwindCSS (Frontend) y PHP (Backend)
+
+
+### 🌐 Sitios WordPress con Elementor
+- [3DALIA](https://3dalia.com/https://altexsl.com/) 
+- [ALTEX](https://altexsl.com/) 
 
 - ### 📊 Estadísticas de GitHub
-![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
+![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ialgalo90&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ialgalo90&layout=compact&theme=tokyonight)
 
-### 📫 Conecta conmigo
+### 📫 Contacta conmigo
 - [LinkedIn](https://www.linkedin.com/in/ismaelalvarezgalo)
 - 📧 Email: ismael.algalo@gmail.com
