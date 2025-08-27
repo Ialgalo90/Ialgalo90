@@ -18,8 +18,8 @@ Me gusta centrarme en la experiencia de usuario, el rendimiento y las buenas pr�
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌟 Proyectos destacados
-- 🎲 [Monopoly en Java](https://github.com/Ialgalo90/Monopoly) - Juego de mesa adaptado con interfaz gráfica en Java Swing ![En proceso](https://img.shields.io/badge/En%20proceso-FFA500?style=for-the-badge).  
-- 🖥️ [Portfolio Web con React](https://github.com/tuusuario/portfolio) - Mi portfolio personal en React y TailwindCSS ![Próximamente](https://img.shields.io/badge/Próximamente-808080?style=for-the-badge).
+- 🎲 [Monopoly en Java](https://github.com/Ialgalo90/Monopoly) - Juego de mesa adaptado con interfaz gráfica en Java Swing ![En proceso](https://img.shields.io/badge/En%20proceso-FFA500?style=flat-square)
+- 🖥️ [Portfolio Web con React](https://github.com/Ialgalo90/portfolio) - Mi portfolio personal en React y TailwindCSS ![Próximamente](https://img.shields.io/badge/Próximamente-808080?style=flat-square)
 - 📝 [Formulario de Registro con React](https://github.com/Ialgalo90/FormRegistroReact) - Mini-formulario en React y TailwindCSS (Frontend) y PHP (Backend) ![Finalizado](https://img.shields.io/badge/Finalizado-32CD32?style=flat-square)
 
 
