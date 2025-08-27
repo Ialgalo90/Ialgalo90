@@ -2,7 +2,7 @@
 ### 💻 Desarrollador Web | Frontend
 
 Soy un desarrollador web apasionado por crear interfaces intuitivas y atractivas, 
-con experiencia en **WordPress + Elementor** y proyectos en **React/Next.js**.  
+con experiencia en **HTML|CSS|JavaScript|React** y proyectos en **WordPress + Elementor**.  
 Me gusta centrarme en la experiencia de usuario, el rendimiento y las buenas prácticas.  
 
 ### 🚀 Tecnologías y herramientas
