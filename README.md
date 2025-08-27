@@ -23,8 +23,8 @@ Me gusta centrarme en la experiencia de usuario, el rendimiento y las buenas pr�
 - 📝 [Formulario de Registro con React](https://github.com/Ialgalo90/FormRegistroReact) → Mini-formulario en React y TailwindCSS (Frontend) y PHP (Backend) ![Finalizado](https://img.shields.io/badge/Finalizado-32CD32?style=flat-square)
 
 ### 🧪 Pruebas y pequeños proyectos
-- [Trabajo de Enfoque de Diseño de Interfaces Web]([https://github.com/Ialgalo90/TrabajoEnfoqueDIW](https://ialgalo90.github.io/TrabajoEnfoqueDIW/))  
-- [Trabajo de Enfoque de Desarrollo web Entorno Cliente]([https://github.com/Ialgalo90/TrabajoEnfoqueDWEC](https://ialgalo90.github.io/TrabajoEnfoqueDWEC/)) 
+- [Trabajo de Enfoque de Diseño de Interfaces Web](https://github.com/Ialgalo90/TrabajoEnfoqueDIW) → [Vista previa](https://ialgalo90.github.io/TrabajoEnfoqueDIW/)
+- [Trabajo de Enfoque de Desarrollo web Entorno Cliente](https://github.com/Ialgalo90/TrabajoEnfoqueDWEC) → [Vista Previa](https://ialgalo90.github.io/TrabajoEnfoqueDWEC/)
 
 ### 🌐 Sitios WordPress con Elementor
 - [3DALIA](https://3dalia.com/https://altexsl.com/) 
